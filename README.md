@@ -1,7 +1,7 @@
 # Writing-Sample
 Risk versus Safety
 
-The identification of safety and risk factors within a family structure is the nyumber one priority 
+The identification of safety and risk factors within a family structure is the number one priority 
 for a caseworker when conpleting a comprehesive assesment.
 Risk factors will impact a child's developement in the **future**.
 Safety factors will impact a child's well-being **immediately**.
