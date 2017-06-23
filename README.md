@@ -28,7 +28,7 @@ The plan can include four options:
 
    -the child leaves the situation
   
-    -the perpatrator leaves the situation
+    -the perpetrator leaves the situation
   
 2. Crisis Services
 
@@ -42,6 +42,6 @@ The plan can include four options:
 
     -The family is connected to a community resource which immediately provides assitance.
     
-The family must be in agreement iwth the plan to address the safety factors.  
+The family must be in agreement with the plan to address the safety factors.  
 The plan must be reviewed every thrity days as well.  
 If there is no change to the safety factors, court proceedings may need to be initiated.
