@@ -1,5 +1,6 @@
 # Writing-Sample
 Risk versus Safety
+
 The identification of safety and risk factors within a family structure is the nyumber one priority 
 for a caseworker when conpleting a comprehesive assesment.
 Risk factors will impact a child's developement in the **future**.
@@ -40,5 +41,6 @@ The plan can include four options:
 
     -The family is connected to a community resource which immediately provides assitance.
     
-The family must be in agreement iwth the plan to address the safety factors.  The plan must be reviewed every thrity days as well.  
+The family must be in agreement iwth the plan to address the safety factors.  
+The plan must be reviewed every thrity days as well.  
 If there is no change to the safety factors, court proceedings may need to be initiated.
