@@ -6,7 +6,7 @@ for a caseworker when conpleting a comprehesive assesment.
 Risk factors will impact a child's developement in the **future**.
 Safety factors will impact a child's well-being **immediately**.
 A plan is implemented to bring about long term **change** when facing risk factors.
-A plan is implelemtented to **control** safty factors immediately.
+A plan is implemented to **control** safty factors immediately.
 
 To determine if a situation is a safety factor it must meet five criteria.
 It must be:
@@ -19,9 +19,10 @@ It must be:
 
 -Vunerable Child
 
--Imminent
+-Imminent Danger
 
 Once safety factors are identified a plan must be created to control them.
+
 The plan can include four options:
 1. Seperation from the situation
 
